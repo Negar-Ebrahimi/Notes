@@ -19,7 +19,8 @@ By [Alistair Croll](https://twitter.com/acroll?s=20) and [Benjamin Yoskovitz](ht
 	3. A ratio or rate (as accountants and financial analysts have, e.g. price-to-earnings ratio, sales margins, the cost of sales, revenue per employee). Ratios tend to be the best metrics, because they are:
 		- Easier to act on: In a car, speed (distance per hour) is easier to act on compared to distance travelled.
 		- Inherently comparative: In a car, speed is one metric, but speed right now over average speed this hour shows you a lot about whether you’re accelerating or slowing down.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU5MjA2NzddfQ==
+eyJoaXN0b3J5IjpbLTE4MTUxNjI4MDddfQ==
 -->
