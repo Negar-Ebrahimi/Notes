@@ -43,11 +43,11 @@ viral coefficient &amp; viral cycle time -&gt; adoption rate</p>
 </ul>
 <p>Metrics categories:</p>
 <ul>
-<li>Qualitative versus quantitative</li>
-<li>Vanity versus actionable</li>
-<li>Exploratory versus reporting</li>
-<li>Leading versus lagging</li>
-<li>Correlated versus causal</li>
+<li>Qualitative vs. quantitative</li>
+<li>Vanity vs. actionable</li>
+<li>Exploratory vs. reporting</li>
+<li>Leading vs. lagging: e.g. customer complaints vs. order cancellations</li>
+<li>Correlated vs. causal: Correlation is good. Causality is great.</li>
 </ul>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
