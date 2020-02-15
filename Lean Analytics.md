@@ -49,7 +49,11 @@ viral coefficient &amp; viral cycle time -&gt; adoption rate</p>
 <li>Leading vs. lagging: e.g. customer complaints vs. order cancellations</li>
 <li>Correlated vs. causal: Correlation is good. Causality is great.</li>
 </ul>
+**Moving Targets:** make early assumptions and set targets for what you think success looks like, but don’t experiment yourself into oblivion. Lower the bar if necessary, but not for the sake of getting over it
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM3MTY4NzYwNV19
+-->
