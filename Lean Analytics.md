@@ -43,12 +43,54 @@ viral coefficient &amp; viral cycle time -&gt; adoption rate</p>
 </ul>
 <p>Metrics categories:</p>
 <ul>
-<li>Qualitative vs. quantitative</li>
-<li>Vanity vs. actionable</li>
-<li>Exploratory vs. reporting</li>
-<li>Leading vs. lagging: e.g. customer complaints vs. order cancellations</li>
-<li>Correlated vs. causal: Correlation is good. Causality is great.</li>
+<li>
+<p>Qualitative vs. quantitative</p>
+</li>
+<li>
+<p>Vanity vs. actionable</p>
+</li>
+<li>
+<p>Exploratory vs. reporting</p>
+</li>
+<li>
+<p>Leading vs. lagging: e.g. customer complaints vs. order cancellations</p>
+</li>
+<li>
+<p>Correlated vs. causal: Correlation is good. Causality is great.</p>
+</li>
+<li>
+<p>Rather than running a series of separate tests one after the other—which will delay your learning cycle—you can analyze them all at once using a technique called multivariate analysis.</p>
+</li>
 </ul>
+<h2 id="deciding-what-to-do-with-your-life">Deciding What to Do with Your Life</h2>
+<p>Includes nothing really related to Data!</p>
+<h2 id="data-driven-versus-data-informed">Data-Driven Versus Data-Informed</h2>
+<ul>
+<li>Math is good at optimizing a known system; humans are good at finding a new one. <em>Change favors local maxima; innovation favors global disruption.</em></li>
+<li>Outliers neither should be excluded, nor included. They should be looked at from a qualitative perspective.</li>
+<li>Mashing up your data with data from other sources can lead to valuable insights.</li>
+</ul>
+<h2 id="finding-the-right-metric-for-right-now">Finding the Right Metric for Right Now</h2>
+<h2 id="analytics-frameworks">Analytics Frameworks</h2>
+<ol>
+<li>Dave McClure’s Pirate Metrics
+<ul>
+<li>Acquisition: <em>Traffic, mentions, cost per click, search results, cost of acquisition, open rate</em></li>
+<li>Activation: <em>Enrollments, signups, completed onboarding process, used the service at least once, subscriptions</em></li>
+<li>Retention: <em>Engagement, time since last visit, daily and monthly active use, churns</em></li>
+<li>Revenue: <em>Customer lifetime value, conversion rate, shopping cart size, click-through revenue</em></li>
+<li>Referral: <em>Invites sent, viral coefficient, viral cycle time</em></li>
+</ul>
+</li>
+<li>Eric Ries’s Engines of Growth
+<ul>
+<li>Sticky Engine: Stickiness isn’t only about retention, it’s also about frequency, which is why you also need to track metrics like time since last visit.</li>
+<li>Virality Engine: <em>Viral coefficient, the actions that make up the cycle, viral cycle time, the type of virality</em></li>
+<li>Paid Engine: <em>Customer Lifetime Value (CLV), Customer Acquisition Cost (CAC), time to customer breakeven</em></li>
+</ul>
+</li>
+</ol>
+<h2 id="the-discipline-of-one-metric-that-matters">The Discipline of One Metric That Matters</h2>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
