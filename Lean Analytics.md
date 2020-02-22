@@ -91,6 +91,42 @@ viral coefficient &amp; viral cycle time -&gt; adoption rate</p>
 </li>
 </ol>
 <h2 id="the-discipline-of-one-metric-that-matters">The Discipline of One Metric That Matters</h2>
+<p><strong>OMTM</strong>: the One Metric That Matters<br>
+<em>VP of Growth Marketting at Moz</em>: “Every team reports to the entire company weekly on KPIs, movement, and summaries. We also have a huge screen up in the office pumping out customer counts and free trial counts.”</p>
+<ul>
+<li>The OMTM changes depending on your current stage, and in some cases it will change quickly.</li>
+<li>You need to pick a number, set it as the target, and have enough confidence that if you hit it, you consider it success.</li>
+</ul>
+<h2 id="what-business-are-you-in">What Business Are You In?</h2>
+<ul>
+<li><em>Sergio Zyman, Coca-Cola’s CMO</em>: “Marketing is about selling more stuff to more people more often for more money more efficiently.”</li>
+<li>You need to segment real, valuable users from drive-by, curious, or detrimental ones. Then you need to make changes that maximize the real users and weed out the bad ones. A subtle approach could be not trying to reactivate disengaged users once they’ve been gone for a while.</li>
+<li>Predicting revenues accurately relies on an understanding of how its different user segments employ the product.
+<ul>
+<li>Freemium isn’t a business model—it’s a marketing tactic.</li>
+<li>SaaS isn’t a business model—it’s a way of delivering software.</li>
+<li>The ads on a media site aren’t a business model—they’re a way of collecting revenue.<br>
+<strong>Acquisition Channel</strong>: How people find out about you.</li>
+<li>Paid advertizing</li>
+<li>Search engine management</li>
+<li>Social media outreach</li>
+<li>…<br>
+<strong>Selling Tactic</strong>: How you convince<br>
+visitors to become users, or<br>
+users to become customers.</li>
+<li>Simple purchase</li>
+<li>Discounts and incentives</li>
+<li>Free trial</li>
+<li>Freemium</li>
+<li>Pay-for-privacy</li>
+<li>Free-to-play<br>
+<strong>Revenue Source</strong>: How you make money.</li>
+<li></li>
+</ul>
+</li>
+</ul>
+<p><strong>Product Type</strong>: What value your business offers in return for the revenue.<br>
+<strong>Delivery Model</strong>: How you get your product to the customer.</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
