@@ -99,9 +99,14 @@ viral coefficient &amp; viral cycle time -&gt; adoption rate</p>
 </ul>
 <h2 id="what-business-are-you-in">What Business Are You In?</h2>
 <ul>
-<li><em>Sergio Zyman, Coca-Cola’s CMO</em>: “Marketing is about selling more stuff to more people more often for more money more efficiently.”</li>
-<li>You need to segment real, valuable users from drive-by, curious, or detrimental ones. Then you need to make changes that maximize the real users and weed out the bad ones. A subtle approach could be not trying to reactivate disengaged users once they’ve been gone for a while.</li>
-<li>Predicting revenues accurately relies on an understanding of how its different user segments employ the product.
+<li>
+<p><em>Sergio Zyman, Coca-Cola’s CMO</em>: “Marketing is about selling more stuff to more people more often for more money more efficiently.”</p>
+</li>
+<li>
+<p>You need to segment real, valuable users from drive-by, curious, or detrimental ones. Then you need to make changes that maximize the real users and weed out the bad ones. A subtle approach could be not trying to reactivate disengaged users once they’ve been gone for a while.</p>
+</li>
+<li>
+<p>Predicting revenues accurately relies on an understanding of how its different user segments employ the product.</p>
 <ul>
 <li>Freemium isn’t a business model—it’s a marketing tactic.</li>
 <li>SaaS isn’t a business model—it’s a way of delivering software.</li>
@@ -121,12 +126,27 @@ users to become customers.</li>
 <li>Pay-for-privacy</li>
 <li>Free-to-play<br>
 <strong>Revenue Source</strong>: How you make money.</li>
-<li></li>
+<li>One-time transaction</li>
+<li>Recurring subscription</li>
+<li>Consumption charges</li>
+<li>Advertizing clicks</li>
+<li>Resale of user data</li>
+<li>Donation<br>
+<strong>Product Type</strong>: What value your business offers in return for the revenue.</li>
+<li>Software</li>
+<li>Platform</li>
+<li>Merchandising</li>
+<li>User-generated content</li>
+<li>Marketplace</li>
+<li>Media/Content</li>
+<li>Service<br>
+<strong>Delivery Model</strong>: How you get your product to the customer.</li>
+<li>Hosted service</li>
+<li>Digital delivery</li>
+<li>Physical delivery</li>
 </ul>
 </li>
 </ul>
-<p><strong>Product Type</strong>: What value your business offers in return for the revenue.<br>
-<strong>Delivery Model</strong>: How you get your product to the customer.</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
